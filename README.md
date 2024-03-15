@@ -2,7 +2,6 @@
 As part of my homework assignment, I created the following MySQL queries.
 
 # Assignment Text and Solution:
-
 Part 1:
 https://docs.google.com/document/d/15gO_BRnoTwEMdB9UgjGCJX1S3ZpA6zkC/edit
 
